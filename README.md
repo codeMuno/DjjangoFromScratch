@@ -1,0 +1,3 @@
+# DjjangoFromScratch
+# This is the start of the Django journey.
+# its been a long way coming but it has to be dominated...
